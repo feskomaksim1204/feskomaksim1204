@@ -25,7 +25,7 @@
 - Telegram: [@MaximFesko](https://t.me/MaximFesko)
 - Email: [FeskoMaksim15@yandex.ru](mailto:FeskoMaksim15@yandex.ru)
 - GitHub: [feskomaksim1204](https://github.com/feskomaksim1204)
-- HH.ru: (https://hh.ru/resume/7165779fff107ad0680039ed1f706e3035577a)
+- HH.ru: https://hh.ru/resume/7165779fff107ad0680039ed1f706e3035577a
 
 ## Мои проекты
 
